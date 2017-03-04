@@ -1,0 +1,104 @@
+.hs-content .active-sec {
+    background: #00FFFF !important;
+}
+.hs-inner h2:after {
+    background: #00FFFF;
+}
+a.hs-totop-link {
+    background: #00FFFF;
+}
+.hs-inner .before-title {
+    color: #00FFFF;
+}
+.hs-menu nav .active-sec .fa {
+    background: #00FFFF;
+}
+    .hs-headline .download{
+background: #00FFFF;
+    }
+.aside1 a {
+    color: #00FFFF;
+}
+.aside1 a:hover {
+    background: #00FFFF;
+}
+.aside1 .aside-content .part1 {
+    color: #00FFFF;
+}
+#header .news-scroll span {
+    color: #00FFFF;
+}
+.tabs-left > .nav-tabs > li > a {
+    background: #00FFFF;
+}
+.tabs-left > .nav-tabs > li > a:hover, .tabs-left > .nav-tabs > li > a:focus {
+    background: #00FFFF;
+}
+.about-section .tab-pane h4 {
+    color: #00FFFF;
+}
+.resume-section .resume > li > .resume-tag {
+    background: #00FFFF;
+}
+.resume-section .resume h4 {
+    color: #00FFFF;
+}
+.bar-main-container {
+    background: #00FFFF;
+}
+.team-section #ourprocess .action-button:hover, #ourprocess .action-button:focus {
+    border: 1px solid #00FFFF;
+    color: #00FFFF;
+}
+.team-section #progressbar li.active:before,  #progressbar li.active:after{
+    background: #00FFFF;
+}
+.service-section .serv-wrap .serv-icons {
+  color: #00FFFF;
+}
+.pricing-section .pricing-table-header h3 {
+  background: #00FFFF;
+}
+.team-card-container h3 {
+    color: #00FFFF;
+}
+.team-card-container .back .social-icons a {
+    background: #00FFFF;
+}
+.work_desc .ext_link {
+    background: #00FFFF;
+}
+.work_desc .ext_link:hover {
+    color: #00FFFF;
+}
+.contact-section #contact_form .submit_btn:hover {
+    color: #00FFFF;
+    border: 1px solid #00FFFF;
+}
+.contact-section .contact_info h3 {
+    color: #00FFFF;
+}
+.pace .pace-progress {
+    background: #00FFFF;
+}
+@-webkit-keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 .1em #00FFFF;
+    }
+    100% {
+        box-shadow: 0 0 0 3em transparent;
+    }
+}
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 .1em #00FFFF;
+    }
+    100% {
+        box-shadow: 0 0 0 3em transparent;
+    }
+}
+#my-link {
+    background: #00FFFF;
+}
+
+A
